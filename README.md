@@ -4,4 +4,4 @@ A App Crypto
 
 ## Getting Started
 
-![ScreenShot/1.jpeg]()
+![/ScreenShot/1.jpeg](/ScreenShot/1.jpeg)
